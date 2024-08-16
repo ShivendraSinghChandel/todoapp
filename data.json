@@ -1,0 +1,53 @@
+{
+  "customer": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "useid": "admin1234",
+      "password": "1234gnb"
+    },
+    {
+      "id": "ba01",
+      "name": "Shivendra singh chandel",
+      "email": "chandel486670@gmail.com",
+      "userid": "1123",
+      "password": "shiv123"
+    },
+    {
+      "id": "dadb",
+      "name": "Shivendra singh chandel",
+      "email": "chandel486670@gmail.com",
+      "userid": "1123",
+      "password": "shiv123"
+    },
+    {
+      "id": "3389",
+      "name": "kishan",
+      "email": "kishan@gmail.com",
+      "userid": "kdfkl",
+      "password": "45354354"
+    },
+    {
+      "id": "79da",
+      "name": "RAJAT",
+      "email": "rajat@gmail.com",
+      "userid": "rajat",
+      "password": "4534543"
+    },
+    {
+      "id": "7767",
+      "name": "shivam",
+      "email": "shiv@gmail.com",
+      "userid": "kfskldj",
+      "password": "4534534"
+    },
+    {
+      "id": "1d4b",
+      "name": "raju",
+      "email": "raju@gmail.com",
+      "userid": "kdfkdd",
+      "password": "3456"
+    }
+  ]
+}

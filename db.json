@@ -1,0 +1,44 @@
+{
+  "product": [
+    {
+      "pname": "fridge",
+      "pno": "12",
+      "qty": "30",
+      "price": "30000",
+      "cname": "arun",
+      "id": "d588"
+    },
+    {
+      "id": "47a0",
+      "pno": "67",
+      "pname": "chair",
+      "qty": "50",
+      "price": "450",
+      "cname": "shankar"
+    },
+    {
+      "id": "4362",
+      "pno": "78",
+      "pname": "almirah",
+      "qty": "50",
+      "price": "1100000",
+      "cname": "Shivendra Singh"
+    },
+    {
+      "id": "9c86",
+      "pno": "67",
+      "pname": "gsdg",
+      "qty": "34546",
+      "price": "454",
+      "cname": "fgdgfd"
+    },
+    {
+      "id": "03a1",
+      "pno": "454",
+      "pname": "gdgdfg",
+      "qty": "4354",
+      "price": "5435",
+      "cname": "dfgdfg"
+    }
+  ]
+}
